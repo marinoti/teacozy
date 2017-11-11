@@ -8,10 +8,6 @@ body {
   text-align: center;
 }
 
-div {
-  display: block;
-}
-
 .flex-container {
   display: flex;
   justify-content: center;
@@ -118,10 +114,6 @@ h2, h4 {
   margin: auto;
 }
 
-.flex-container.locations {
-
-}
-
 .location {
   display: flex;
   flex-direction: column;
@@ -136,4 +128,14 @@ h2, h4 {
   padding: 20px 0;
 }
 
-/* Footer section */
+/* Contact section */
+#contact {
+  height: 200px;
+}
+
+/* Footer */
+footer {
+  align-text: left;
+  padding-left: 20px;
+
+}
