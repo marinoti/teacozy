@@ -135,7 +135,6 @@ h2, h4 {
 
 /* Footer */
 footer {
-  align-text: left;
+  text-align: left;
   padding-left: 20px;
-
 }
